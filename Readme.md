@@ -31,10 +31,12 @@
 
 <h3 align="center">Desenvoler a página inicial do projeto.</h3>
 
+Na primeira aula foi desenvolvido o layout da primeira página utilizando HTML e CSS.
+
+Foram disponibilizadas as imagens e paleta de cores... mas eu resolvi dar o meu toque nela.
 
 ---
 Desenvolvido 💖 por Nádia Ligia
-Desenvolvido por Nádia Ligia
 
 
 
