@@ -9,11 +9,13 @@
 ## Índice
 
 - [Sobre](#sobre)
-- [Aula 01](#aula-01)
-- Aula 02
-- Aula 03
-- Aula 04
-- Aula 05
+- [Dia 01](#dia-01)
+- [Dia 02](#dia-02)
+- Dia 03
+- Dia 04
+- Dia 05
+- Dia 06
+- Dia 07
 
  ---
  
@@ -21,9 +23,11 @@
 
 **Next Level Week** é um evento online produzido pela **Rocketseat** que visa desenvolver uma aplicação do início ao fim em 5 dias, utilizandos dos princiapis fundamentos do desenvolvimento até conceitos avançados e tecnologias modernas, sendo a Trilha Discovery destinada aos dev's iniciantes.
 
+Este repositório visa acompanhar o meu progresso e será separado por Dia, onde eu listo o que foi desenvolvido.
+
 ---
 
-## Aula 01
+## Dia 01
 
 <h3 align="center">
     <img src="image/index.png" width="400px" >
@@ -31,11 +35,25 @@
 
 <h3 align="center">Desenvoler a página inicial do projeto.</h3>
 
-Na primeira aula foi desenvolvido o layout da primeira página utilizando HTML e CSS.
+Na primeira dia foi desenvolvido o layout da primeira página utilizando HTML e CSS.
 
 Foram disponibilizadas as imagens e paleta de cores... mas eu resolvi dar o meu toque nela.
 
 ---
+
+## Dia 02
+
+<h3 align="center">
+    <img src="image/aula2.png" width="400px" >
+</h3>
+
+<h3 align="center">Finalização da página inicial</h3>
+
+Foi realizada a refatoração do código, a separação em pastas e ajustada a responsividade, tornando a aplicação pronta tanto para web quanto para mobile.
+
+
+---
+
 Desenvolvido 💖 por Nádia Ligia
 
 
