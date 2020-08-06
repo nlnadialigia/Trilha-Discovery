@@ -1,0 +1,159 @@
+:root {
+    --color-background: #F0F0F7;
+    --color-primary-lighter: #454be4;
+    --color-primary-light: #a023a0;
+    --color-primary: #485460;
+    --color-primary-dark: #774DD6;
+    --color-primary-darker: #6842c2;
+    --color-secondary: #3c40c6;
+    --color-secondary-dark: #800080;    
+    --color-title-in-primary: #FFFFFF;
+    --color-text-in-primary: #ade4f7;
+    --color-text-title: #32264D;
+    --color-text-complement: #d4cfdf;
+    --color-text-base: #6A6180;
+    --color-line-in-white: #E6E6F0;
+    --color-input-background: #F8F8FC;
+    --color-button-text: #FFFFFF;
+    --color-box-base: #FFFFFF;
+    --color-box-footer: #FAFAFC;
+    --color-small-info: #C1BCCC;
+}
+
+#page-study{
+    background: linear-gradient(to bottom, var(--color-primary) 30%, var(--color-background) 30%);
+}
+
+#page-study,
+#container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.page-header{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.top-bar-container{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.6rem 0;
+    color: var(--color-text-in-primary);
+}
+
+.top-bar-container a{
+    height: 3.2rem;
+    opacity: 0.5;
+}
+
+.top-bar-container p{
+    font-size: 1.rem;
+    opacity: 0.5;
+}
+
+.top-bar-container .proffy{
+    width: 6rem;
+    color: #ade4f7;
+}
+
+.header-content{
+    width: 90%;
+    margin: 3.2rem auto;
+    color: var(--color-title-in-primary);
+}
+
+.header-content .proffys{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-bottom: 1.2rem;
+}
+
+.header-content strong{
+    width: 50%;
+    text-align: left;
+    font: 700 3.6rem Archivo;
+    line-height: 4.2rem;
+}
+
+.header-content p{
+    color: var(--color-text-in-primary);
+    opacity: 0.5;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.header-content img{
+    width: 1.6rem;
+}
+
+/***********************************************************/
+
+#search-teachers,
+select,
+.input-block{
+    margin-bottom: 1.4rem;
+}
+
+#search-teachers{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#search-teachers button{
+    width: 20%;
+    height: 4rem;
+    background-color: var(--color-secondary-dark);
+    color: var(--color-button-text);
+    border: 0;
+    border-radius: 3px;
+    cursor: pointer;
+    font: 700 1.6rem Archivo;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    transition: background 0.2s;
+    margin-top: 3rem
+}
+
+.select-block,
+.input-block{
+    margin-top: 1.5rem;
+}
+
+.select-block label,
+.input-block label{
+    font-size: 1.4rem;
+    color: var(--color-text-complement);
+}
+
+.input-block input,
+.select-block select{
+    width: 95%;
+    height: 4rem;
+    margin-top: 0.8rem;
+    border-radius: 3px;
+    border: 1px solid var(--color-line-in-white);
+    outline: 0;
+    padding: 0 1.6rem;
+    font: 1.6rem Archivo;
+}
+
+.input-block:focus-within::after{
+    content: "";
+    width: calc(100%-3.2rem);
+    background: var(--color-primary-light);
+
+    position: absolute;
+    left: 1.6rem;
+    right: 1.6rem;
+    bottom: 0;
+}
+
+
