@@ -53,7 +53,7 @@ Foi realizada a refatoração do código, a separação em pastas e ajustada a r
 
 ---
 
-## Dia 02
+## Dia 03
 
 <h3 align="center">
     <img src="image/aula3.png" width="400px" >
