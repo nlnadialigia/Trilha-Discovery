@@ -11,7 +11,7 @@
 - [Sobre](#sobre)
 - [Dia 01](#dia-01)
 - [Dia 02](#dia-02)
-- Dia 03
+- [Dia 03](#dia-03)
 - Dia 04
 - Dia 05
 - Dia 06
@@ -50,6 +50,16 @@ Foram disponibilizadas as imagens e paleta de cores... mas eu resolvi dar o meu 
 <h3 align="center">Finalização da página inicial</h3>
 
 Foi realizada a refatoração do código, a separação em pastas e ajustada a responsividade, tornando a aplicação pronta tanto para web quanto para mobile.
+
+---
+
+## Dia 02
+
+<h3 align="center">
+    <img src="image/aula3.png" width="400px" >
+</h3>
+
+<h3 align="center">Criação e estilização do header da página de busca de proffys</h3>
 
 
 ---
