@@ -44,7 +44,7 @@ Foram disponibilizadas as imagens e paleta de cores... mas eu resolvi dar o meu 
 ## Dia 02
 
 <h3 align="center">
-    <img src="image/aula2.png" width="400px" >
+    <img src="image/dia02.png" width="400px" >
 </h3>
 
 <h3 align="center">Finalização da página inicial</h3>
@@ -53,14 +53,23 @@ Foi realizada a refatoração do código, a separação em pastas e ajustada a r
 
 ---
 
-## Dia 02
+## Dia 03
 
 <h3 align="center">
-    <img src="image/aula3.png" width="400px" >
+    <img src="image/dia03.png" width="400px" >
 </h3>
 
 <h3 align="center">Criação e estilização do header da página de busca de proffys</h3>
 
+---
+
+## Dia 04
+
+<h3 align="center">
+    <img src="image/dia04.png" width="400px" >
+</h3>
+
+<h3 align="center">Estilização dos cards da página de busca do proffys</h3>
 
 ---
 
