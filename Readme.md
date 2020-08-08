@@ -29,6 +29,7 @@ Este repositório visa acompanhar o meu progresso e será separado por Dia, onde
 
 ## Dia 01
 
+<h2>Aula 01</h2>
 <h3 align="center">
     <img src="image/index.png" width="400px" >
 </h3>
@@ -55,6 +56,7 @@ Foi realizada a refatoração do código, a separação em pastas e ajustada a r
 
 ## Dia 03
 
+<h2>Aula 02</h2>
 <h3 align="center">
     <img src="image/dia03.png" width="400px" >
 </h3>
@@ -69,7 +71,34 @@ Foi realizada a refatoração do código, a separação em pastas e ajustada a r
     <img src="image/dia04.png" width="400px" >
 </h3>
 
-<h3 align="center">Estilização dos cards da página de busca do proffys</h3>
+<h3 align="center">Estilização dos cards da página de busca de proffys</h3>
+
+---
+
+## Dia 05
+
+<h3 align="center">
+    <img src="image/aula-02.gif" width="400px" >
+</h3>
+
+<h3 align="center">Finalização da página de busca de proffys</h3>
+
+---
+
+## Dia 06
+
+<h2>Aula 03</h2> 
+<h3 align="center">
+   <img src="image/aula-03.gif" width="400px" >
+</h3>
+
+<h3 align="center">Criação e estilização da página de cadastro para proffys</h3>
+
+<h4>
+
+Nesta aula foram desenvolvidos os primeiros conceitos de Javascript para adicionar novos horários na grade de horários disponíveis.
+
+</h4>
 
 ---
 

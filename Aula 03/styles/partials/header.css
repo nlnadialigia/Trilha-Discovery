@@ -1,0 +1,124 @@
+.page-header {
+    background-color: var(--color-primary);
+    display: flex;
+    flex-direction: column;
+    color: var(--color-text-in-primary);
+}
+
+.top-bar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 2%;
+}
+
+.top-bar-container p{
+    font-size: 1.8rem;
+    opacity: 0.5;
+}
+
+.top-bar-container .back {
+    width: 70%;
+    opacity: 0.5;
+}
+
+.top-bar-container .proffy {
+    width: 6rem;
+}
+
+.header-content{
+    margin: auto 0.8rem;
+}
+
+.header-content .proffys {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-content strong{
+    font: 700 2.5rem Archivo;
+    line-height: 3rem;
+    padding-left: 1.5rem;
+}
+
+.header-content .proffys strong{
+    width: 40%;
+    font: 700 3rem Archivo;
+    line-height: 3.8rem;
+    padding-left: 0;
+}
+
+.proffys p{
+    opacity: 0.5;
+}
+
+.proffys img{
+    width: 25%;
+}
+
+.rocket{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15rem;
+    align-items: center;
+    margin-left: 2rem;
+    
+}
+
+.rocket p{
+    padding-top: 1.5rem;
+    width: 30rem;
+    opacity: 0.7;
+    font-size: 1.4rem;
+}
+
+.rocket img{
+    width: 5%;
+}
+
+
+@media (min-width: 700px) {
+    #page-study #container {
+        max-width: 100vw;
+    }
+    .page-header {
+        height: 340px;
+    }
+    .page-header .top-bar-container {
+        max-width: 1100px;
+    }
+    .page-header .header-content {
+        max-width: 740px;
+        margin: 0 auto;
+        flex: 1 1;
+        padding-bottom: 48px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .page-header .header-content strong {
+        max-width: 350px;
+    }
+}
+
+@media(max-width: 699px){
+    .top-bar-container{
+        padding: 2rem 0.8rem;
+    }
+
+    .header-content{
+        padding-bottom: 2rem;
+    }
+
+    .rocket{
+        margin-bottom: 2rem;
+        margin-top: 2rem;
+    }
+}
+
+@media(min-width: 1101px){
+    .top-bar-container{
+        margin-left: 40rem;
+    }
+}
