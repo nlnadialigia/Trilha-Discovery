@@ -15,7 +15,8 @@
 - [Dia 04](#dia-04)
 - [Dia 05](#dia-05)
 - [Dia 06](#dia-06)
-- Dia 07
+- [Dia 07](#dia-07)
+- [Orientações sobre o projeto](/Orientacoes.md)
 
  ---
  
@@ -110,6 +111,22 @@ Nesta aula foram desenvolvidos os primeiros conceitos de Javascript para adicion
 <h4>
 Nesta aula foi desenvolvido o back-end da aplicação, com a inicialização do servidor, criação das rotas e configuração da inserção de dados.
 </h4>
+
+---
+
+## Dia 07
+
+<h2>Aula 05</h2> 
+<h4>
+Nesta aula estudamos o banco de dados, mais precisamente o SQLITE3, desenvolvendo toda a parte de cadastro de proffy e página de busca.
+</h4>
+<h3 align="center">
+   <img src="image/server.png" width="400px" >
+   <img src="image/db.png" width="600px" >
+   <img src="image/createProffy.png" width="700px" >
+   <img src="image/page.png" width="400px" >
+</h3>
+
 
 ---
 
