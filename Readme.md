@@ -12,9 +12,9 @@
 - [Dia 01](#dia-01)
 - [Dia 02](#dia-02)
 - [Dia 03](#dia-03)
-- Dia 04
-- Dia 05
-- Dia 06
+- [Dia 04](#dia-04)
+- [Dia 05](#dia-05)
+- [Dia 06](#dia-06)
 - Dia 07
 
  ---
@@ -98,6 +98,17 @@ Foi realizada a refatoração do código, a separação em pastas e ajustada a r
 
 Nesta aula foram desenvolvidos os primeiros conceitos de Javascript para adicionar novos horários na grade de horários disponíveis.
 
+</h4>
+
+---
+
+<h2>Aula 04</h2> 
+<h3 align="center">
+   <img src="image/back-end.png" width="400px" >
+</h3>
+
+<h4>
+Nesta aula foi desenvolvido o back-end da aplicação, com a inicialização do servidor, criação das rotas e configuração da inserção de dados.
 </h4>
 
 ---
